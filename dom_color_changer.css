@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#color-box {
+  width: 400px;
+  height: 400px;
+  background-color: orange;
+  margin: 20px auto;
+  border-radius: 20px;
+  box-shadow: 5px 10px 50px rgba(0, 0, 0, 0.2);
+}
+
+#change-color-btn {
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#change-color-btn:hover {
+  background-color: #05570b;
+}
